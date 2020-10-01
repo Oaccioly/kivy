@@ -1,1 +1,1 @@
-Cointeiners e botoes para kivy
+Estudos para interface com kivy

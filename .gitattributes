@@ -1,1 +1,2 @@
 *.kv linguist-language=kivy
+*.kv linguist-detectable=true
